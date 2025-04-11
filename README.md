@@ -7,7 +7,7 @@ data into actionable business strategies.
 
 ## Table of Contents
 
-- [Summary](https://github.com/Sirinrada/Portfolio/main/README.md#SUMMARY)
+- [Summary](https://github.com/Sirinrada/Portfolio/main/README.md#summary)
 - [Experience](https://github.com/Sirinrada/Portfolio/main/README.md#EXPERIENCE)
 - Projects
 - Skills
