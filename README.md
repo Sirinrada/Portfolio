@@ -32,6 +32,8 @@ data into actionable business strategies.
 
 - Utilized Python and NLP libraries to process textual data, contributing to advancements in
   psycholinguistic profiling.
+
+  [View full text](https://digital.library.tu.ac.th/tu_dc/frontend/Info/item/dc:305737)
   
 ## SKILLS
 
@@ -50,8 +52,6 @@ data into actionable business strategies.
 Thammasat University Rangsit Campus
 
 - Thesis on “THE BIG FIVE PERSONALITY CLASSIFICATION BASED ON LANGUAGE USE”
-  
-  .[View full text]. (https://digital.library.tu.ac.th/tu_dc/frontend/Info/item/dc:305737)
 
 - Scholarship: Outstanding Graduate Scholarship,
   Faculty of Science and Technology (ทุนบัณฑิตเรียนดี คณะวิทยาศาสตร์และเทคโนโลยี)
