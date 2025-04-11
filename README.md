@@ -12,7 +12,7 @@ data into actionable business strategies.
 - [Projects](https://github.com/Sirinrada/Portfolio/blob/main/README.md#PROJECTS)
 - [Skills](https://github.com/Sirinrada/Portfolio/blob/main/README.md#SKILLS)
 - [Education](https://github.com/Sirinrada/Portfolio/blob/main/README.md#EDUCATION)
-- [Awards & Honors](https://github.com/Sirinrada/Portfolio/blob/main/README.md#AWARDS&nbsp;&copy;&nbsp;HONORS)
+- [Awards & Honors](https://github.com/Sirinrada/Portfolio/blob/main/README.md#AWARDS%20&%20HONORS)
 - [Contacts](https://github.com/Sirinrada/Portfolio/blob/main/README.md#CONTACTS)
 
 ## EXPERIENCE
@@ -76,7 +76,7 @@ Thammasat University Rangsit Campus
 
 - GPA: 3.63
   
-## AWARDS&nbsp;&copy;&nbsp;HONORS
+## AWARDS&nbsp;&&nbsp;HONORS
 
 - First-Class Honors Graduate Faculty of Science and Technology, Thammasat University (GPA: 3.63)
 
