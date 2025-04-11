@@ -50,6 +50,8 @@ data into actionable business strategies.
 Thammasat University Rangsit Campus
 
 - Thesis on “THE BIG FIVE PERSONALITY CLASSIFICATION BASED ON LANGUAGE USE”
+  
+  .[View full text]. (https://digital.library.tu.ac.th/tu_dc/frontend/Info/item/dc:305737)
 
 - Scholarship: Outstanding Graduate Scholarship,
   Faculty of Science and Technology (ทุนบัณฑิตเรียนดี คณะวิทยาศาสตร์และเทคโนโลยี)
