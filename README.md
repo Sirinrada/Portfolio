@@ -8,12 +8,12 @@ data into actionable business strategies.
 ## Table of Contents
 
 - [Summary](https://github.com/Sirinrada/Portfolio/blob/main/README.md#SUMMARY)
-- [Experience](https://github.com/Sirinrada/Portfolio/main/README.md#EXPERIENCE)
-- Projects
-- Skills
-- Education
-- Awards & Honors
-- Contacts
+- [Experience](https://github.com/Sirinrada/Portfolio/blob/main/README.md#EXPERIENCE)
+- [Projects](https://github.com/Sirinrada/Portfolio/blob/main/README.md#PROJECTS)
+- [Skills](https://github.com/Sirinrada/Portfolio/blob/main/README.md#SKILLS)
+- [Education](https://github.com/Sirinrada/Portfolio/blob/main/README.md#EDUCATIONS)
+- [Awards & Honors](https://github.com/Sirinrada/Portfolio/blob/main/README.md#AWARDS-&-HONORS)
+- [Contacts](https://github.com/Sirinrada/Portfolio/blob/main/README.md#CONTACTS)
 
 ## EXPERIENCE
 
