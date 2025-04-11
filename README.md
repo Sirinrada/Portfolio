@@ -76,7 +76,7 @@ Thammasat University Rangsit Campus
 
 - GPA: 3.63
   
-## AWARDS & HONORS
+## AWARDS&nbsp;&amp;&nbsp;HONORS
 
 - First-Class Honors Graduate Faculty of Science and Technology, Thammasat University (GPA: 3.63)
 
