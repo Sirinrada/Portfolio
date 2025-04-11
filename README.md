@@ -1,7 +1,5 @@
 # **Sirinrada Ek-akkararungroj**
 
-[sirinrada.ek@gmail.com](mailto:sirinrada.ek@gmail.com)
-
 ## SUMMARY
 
 Recent master’s degree in Computer Science with experience in data analytics, machine learning, and NLP research. Proficient in Python, SQL, Power BI, and Tableau, with strong presentation and crossfunctional collaboration skills. Completed research on personality traits using data analytics, applying machine learning techniques to assess individual differences based on language use. Conducted a project analyzing historical sales data to forecast future demand. Committed to transforming complex
@@ -71,3 +69,6 @@ Thammasat University Rangsit Campus
 - First-Class Honors Graduate Faculty of Science and Technology, Thammasat University (GPA: 3.63)
 
 - Academic excellence award with honors (รางวัลเรียนดีกองทุนพระยานิติศาสตร์ไพศาลย์และศาสตราจารย์ศรีศักดิ์จามรมาน)
+
+## CONTACTS
+[sirinrada.ek@gmail.com](mailto:sirinrada.ek@gmail.com)
