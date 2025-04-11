@@ -12,7 +12,7 @@ data into actionable business strategies.
 - [Projects](https://github.com/Sirinrada/Portfolio/blob/main/README.md#PROJECTS)
 - [Skills](https://github.com/Sirinrada/Portfolio/blob/main/README.md#SKILLS)
 - [Education](https://github.com/Sirinrada/Portfolio/blob/main/README.md#EDUCATION)
-- [Awards & Honors](https://github.com/Sirinrada/Portfolio/blob/main/README.md#AWARDS%20&amp;%20HONORS)
+- [Awards & Honors](https://github.com/Sirinrada/Portfolio/blob/main/README.md#AWARDS(+)&amp;(+)HONORS)
 - [Contacts](https://github.com/Sirinrada/Portfolio/blob/main/README.md#CONTACTS)
 
 ## EXPERIENCE
