@@ -12,34 +12,33 @@ data into actionable business strategies.
 - [Projects](https://github.com/Sirinrada/Portfolio/blob/main/README.md#PROJECTS)
 - [Skills](https://github.com/Sirinrada/Portfolio/blob/main/README.md#SKILLS)
 - [Education](https://github.com/Sirinrada/Portfolio/blob/main/README.md#EDUCATION)
-- [Awards and Honors](https://github.com/Sirinrada/Portfolio/blob/main/README.md#AWARDS-and-HONORS)
+- [Awards and Honors](https://github.com/Sirinrada/Portfolio/blob/main/README.md#TRAINING-and-CERTIFICATIONS)
 - [Contacts](https://github.com/Sirinrada/Portfolio/blob/main/README.md#CONTACTS)
 
 ## EXPERIENCE
 
-#### Teaching Assistant, Introduction to Computer Programming Apr 2021 - July 2024
+#### Thammasat University
+Teaching Assistant, Introduction to Computer Programming Apr 2021 - July 2024
 
-- Assisted in lecture and programming assignments.
+- Assisted in programming lectures and coding labs using Python and C++.
+- Supported technical discussions and assignment reviews, helping students improve coding skills and complete projects successfully. 
+- Evaluated assignments and provided feedback, contributing to improved class performance and higher pass rates.
 
-- Conducted lab sessions to provide hands-on coding experience and personalized student support.
 
-- Guided students on programming assignments, fostering problem-solving skills.
+#### Thammasat Secondary School
+Teacher, Computing Science Nov 2020 - Mar 2022
 
-- Developed and graded assignments and quizzes to assess student understanding.
-
-#### Adjunct Lecturer, Computing Science Nov 2020 - Mar 2022
-
-- Thammasat Secondary School Developed and delivered a curriculum emphasizing computational thinking, digital technology fundamentals, media and information literacy, and Python programming.
+- Co-developed and delivered a curriculum on computational thinking, digital technology, and Python programming, helping students build a strong foundation in computer science.
+- Improved student engagement and digital literacy through hands-on coding projects.
+- Collaborated with academic teams to design course materials aligned with educational standards and real-world applications.
   
 ## PROJECTS
 
 #### THE BIG FIVE PERSONALITY CLASSIFICATION BASED ON LANGUAGE USE Aug 2020 - Jul 2023
 
 - Developed an NLP-based model to predict individuals' Big Five personality traits from their language patterns.
-
 - Implemented machine learning algorithms to analyze linguistic data, achieving high accuracy in
   personality classification.
-
 - Utilized Python and NLP libraries to process textual data, contributing to advancements in
   psycholinguistic profiling.
 
@@ -47,13 +46,16 @@ data into actionable business strategies.
   
 ## SKILLS
 
-- Programming Skill: Python, R, SQL
-
-- Data Visualization: Power BI, Tableau
-
-- Statistical Tools : SPSS
-
-- Problem-solving Skills
+- Computer Programming: Python (Pandas, NumPy, Scikit-learn),  SQL, R, C#, C++, Java, Front-end Development (HTML)
+- Machine Learning (ML): SVM, ANN, LSTM, Decision Trees, Naive Bayes
+- Visualization: Power BI, Tableau, Matplotlib, Seaborn
+- System Analysis & Design: Data Flow Diagrams, System Flowcharts
+- Database: Relational Database Design, ER Diagrams, MySQL, PostgreSQL
+- Business Process Modeling: Swimlane Diagrams (draw.io, Miro)
+- Software Testing: Test Case Design, UAT Planning, Bug Tracking (Jira)
+- Tools: Google Colab, Jupyter Notebook, SPSS, Power Automate, Microsoft Azure, Databricks, Miro
+- Soft Skills: Communication, Presentation, Problem-Solving, Cross-functional Collaboration, Multi-tasking
+- English (TOEIC 755) 
   
 ## EDUCATION
 
@@ -62,24 +64,25 @@ data into actionable business strategies.
 Thammasat University Rangsit Campus
 
 - Thesis on “THE BIG FIVE PERSONALITY CLASSIFICATION BASED ON LANGUAGE USE”
-
 - Scholarship: Outstanding Graduate Scholarship,
   Faculty of Science and Technology (ทุนบัณฑิตเรียนดี คณะวิทยาศาสตร์และเทคโนโลยี)
-
 - TOEIC Score: 755/990 (Achieved in December 2024)
-
 - GPA: 3.83
 
 #### BACHELOR OF SCIENCE (COMPUTER SCIENCE), 1ST CLASS HONS. Aug 2014 - May 2018
 
 Thammasat University Rangsit Campus
 
-- GPA: 3.63
+- GPA: 3.63 (1st Class Honors)
   
-## AWARDS and HONORS
+## TRAINING and CERTIFICATIONS
 
-- First-Class Honors Graduate Faculty of Science and Technology, Thammasat University (GPA: 3.63)
-
+- A/B Testing and Conversion Optimization – Udemy (2025)  
+- Introduced to Azure Databricks: BI Class – Fusion Solution (2025)
+- Agile Business Analysis – Udemy (2025)
+- Business Analytics – TUXSA Thammasat University (2025)
+- Power Automate Desktop – 9Expert Training (2025)
+- Outstanding Oral Presentation – ICASD (2023)
 - Academic excellence award with honors (รางวัลเรียนดีกองทุนพระยานิติศาสตร์ไพศาลย์และศาสตราจารย์ศรีศักดิ์จามรมาน)
 
 ## CONTACTS
