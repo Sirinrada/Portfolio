@@ -2,11 +2,11 @@
 
 ## SUMMARY
 
-Analytical and proactive Business Analyst & Data Analyst with a Master’s degree in Computer Science from Thammasat University. I specialize in translating business needs into actionable data insights and system requirements. My background includes teaching, research publication (ICASD 2023), and multiple data-driven projects such as customer segmentation (RFM), credit risk prediction (XGBoost), and sales forecasting.
+A highly motivated and detail-oriented professional with a Master’s degree in Computer Science from Thammasat University, specializing in business analysis and data analytics. I possess a strong foundation in translating complex business requirements into structured data insights and comprehensive system documentation.
 
-Skilled in Python, SQL, Power BI, and system analysis tools (DFD, ER diagram, BPMN), I apply both technical and communication skills to drive stakeholder alignment and data-informed decisions. I have experience working in agile environments and excel in building dashboards, writing user stories, and delivering end-to-end data solutions.
+My experience includes academic research (presented at ICASD 2023), teaching roles, and several data-focused projects such as customer segmentation (RFM), sales forecasting, and personality classification using natural language processing. I am proficient in Python, SQL, Power BI, and R, and skilled in designing systems using tools such as DFDs, ER diagrams, and BPMN.
 
-Actively seeking opportunities to contribute to organizations that value evidence-based decision-making and digital transformation.
+With a strong ability to communicate across technical and non-technical stakeholders, I aim to contribute to data-driven decision-making and digital transformation initiatives within forward-thinking organizations. I am currently seeking full-time opportunities where I can apply my expertise to deliver meaningful insights and improve operational efficiency.
 
 ## Table of Contents
 
