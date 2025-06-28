@@ -15,7 +15,7 @@ With a strong ability to communicate across technical and non-technical stakehol
 - [PROJECTS](https://github.com/Sirinrada/Portfolio/blob/main/README.md#PROJECTS)
     > [MASTER’S THESIS](https://github.com/Sirinrada/Portfolio/blob/main/README.md###MASTER’S_THESIS)
     
-    > [POWER BI](https://github.com/Sirinrada/Portfolio/blob/main/README.md###POWER_BI)
+    > [POWER BI](https://github.com/Sirinrada/Portfolio/blob/main/README.md#POWER_BI)
 - [TECHNICAL SKILLS](https://github.com/Sirinrada/Portfolio/blob/main/README.md#TECHNICAL-SKILLS)
 - [TRAINING and CERTIFICATIONS](https://github.com/Sirinrada/Portfolio/blob/main/README.md#TRAINING-and-CERTIFICATIONS)
 - [PROFESSIONAL EXPERIENCE](https://github.com/Sirinrada/Portfolio/blob/main/README.md#PROFESSIONAL-EXPERIENCE)
