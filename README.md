@@ -1,6 +1,6 @@
 # **Sirinrada Ek-akkararungroj - Portfolio**
 
-Welcome to my data and analytics portfolio. This repository showcases my academic background, technical skills, and selected projects in data science, data analytics, business analysis, and dashboard development.
+Welcome to my data and analytics portfolio. This repository showcases my academic background, technical skills, and selected projects in data science, data analysis, business analysis, and dashboard development.
 
 
 ## Table of Contents
@@ -11,6 +11,8 @@ Welcome to my data and analytics portfolio. This repository showcases my academi
 - [PROJECTS](#projects)
     - [MASTER’S THESIS](#masters-thesis)
     - [POWER BI DASHBOARD](#power-bi-dashboard)
+    - [DATA ANALYSIS and MACHINE LEARNING](#data-analysis-and-machine-learning)
+    - [BUSINESS ANALYSIS and SYSTEM DESIGN](#business-analysis-and-system-design)
 - [TRAINING and CERTIFICATIONS](#training-and-certifications)
 - [PROFESSIONAL EXPERIENCE](#professional-experience)
 - [CONTACT](#contact)
@@ -72,7 +74,7 @@ Thammasat University Rangsit Campus
   psycholinguistic profiling.
 
   [View full text](https://digital.library.tu.ac.th/tu_dc/frontend/Info/item/dc:305737)
-
+---
 ### POWER BI DASHBOARD
 #### Project Title: Proportion of Students in Science, Technology, and Engineering Compared to Other Fields (Academic Year 2022)
 Fields of study are classified based on the International Standard Classification of Education (ISCED) developed by UNESCO.
@@ -93,6 +95,66 @@ This analysis compares the proportion of students in the above disciplines to th
 
 ![Power BI Screenshot](https://github.com/Sirinrada/Portfolio/blob/main/powerbi_SCIENCE_Student_dashboard.png)
 
+
+---
+
+### DATA ANALYSIS AND MACHINE LEARNING
+#### Data Analyst | Time Series Forecasting for EV Stock Prices  				       			 
+####  Time Series Forecasting for EV Stock Prices
+
+This project focuses on forecasting stock prices of leading Electric Vehicle (EV) companies using time series data and machine learning models. It integrates external economic indicators such as gold and crude oil prices to enhance forecasting performance and generate strategic insights.
+
+####  Target Companies
+- Tesla (`TSLA`)
+- BYD (`1211.HK`)
+- Volkswagen (`VOW3.DE`)
+- Geely (`0175.HK`)
+- General Motors (`GM`)
+
+####   Datasets
+- Stock data from [Yahoo Finance](https://finance.yahoo.com/)
+- Macroeconomic indicators:
+  - Gold prices 
+  - Oil prices 
+- Time Period: 2018-01-01 to 2023-01-01
+
+####   Tools & Technologies
+- **Python** (Google Colab)
+- **yfinance** for data fetching
+- **pandas, NumPy** for data wrangling
+- **Matplotlib, Seaborn** for data visualization
+- **TensorFlow / Keras** for LSTM & ANN modeling
+- **scikit-learn** for preprocessing & evaluation
+
+####   Key Features
+- Merged EV stock data with macroeconomic factors
+- Built deep learning models (LSTM and ANN) for price prediction
+- Forecasted future price trends and visualized model performance
+- Interpreted results for business decision support
+
+####   Results
+- LSTM and ANN models produced stable forecasts with trend awareness  
+- Gold and oil prices provided additional context to stock price fluctuations  
+- Visual outputs helped support strategic investment planning
+
+
+
+---
+
+
+
+
+
+
+#### Business & Data Analyst | Retail Sales Forecasting and Performance Improvement Analysis				       
+•	Conducted exploratory data analysis on historical sales data and created Power BI dashboards to deliver actionable insights and optimize inventory and marketing strategies.
+
+---
+### BUSINESS ANALYSIS AND SYSTEM DESIGN
+#### Business Analyst | Construction Materials Ordering Platform (Simulation Project)					     
+•	Gathered and analyzed business requirements for a contractor-vendor ordering system, designing solutions with Use Case Diagrams, process flows, and dashboard mockups to enhance operational efficiency.
+
+---
 
 ## TRAINING and CERTIFICATIONS
 
