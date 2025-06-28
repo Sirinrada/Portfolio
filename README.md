@@ -73,6 +73,10 @@ Natural Sciences, Mathematics and Statistics
 
 This analysis compares the proportion of students in the above disciplines to those in other fields of study in the academic year 2022 (B.E. 2565).
 
+![Power BI Screenshot](https://github.com/Sirinrada/Portfolio/blob/main/powerbi_SCIENCE_Student_dashboard.png)
+
+
+
 ## TECHNICAL SKILLS
 
 - Computer Programming: Python (Pandas, NumPy, Scikit-learn),  SQL, R, C#, C++, Java, Front-end Development (HTML)
