@@ -2,8 +2,11 @@
 
 ## SUMMARY
 
-Master’s degree in Computer Science with experience in data analytics, machine learning, and NLP research. Proficient in Python, SQL, Power BI, and Tableau, with strong presentation and crossfunctional collaboration skills. Completed research on personality traits using data analytics, applying machine learning techniques to assess individual differences based on language use. Conducted a project analyzing historical sales data to forecast future demand. Committed to transforming complex
-data into actionable business strategies.
+Analytical and proactive Business Analyst & Data Analyst with a Master’s degree in Computer Science from Thammasat University. I specialize in translating business needs into actionable data insights and system requirements. My background includes teaching, research publication (ICASD 2023), and multiple data-driven projects such as customer segmentation (RFM), credit risk prediction (XGBoost), and sales forecasting.
+
+Skilled in Python, SQL, Power BI, and system analysis tools (DFD, ER diagram, BPMN), I apply both technical and communication skills to drive stakeholder alignment and data-informed decisions. I have experience working in agile environments and excel in building dashboards, writing user stories, and delivering end-to-end data solutions.
+
+Actively seeking opportunities to contribute to organizations that value evidence-based decision-making and digital transformation.
 
 ## Table of Contents
 
