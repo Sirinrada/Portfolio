@@ -6,16 +6,14 @@ Welcome to my data and analytics portfolio. This repository showcases my academi
 ## Table of Contents
 
 - [SUMMARY](#summary)
-- [EDUCATION](https://github.com/Sirinrada/Portfolio/blob/main/README.md#EDUCATION)
-- [PROJECTS](https://github.com/Sirinrada/Portfolio/blob/main/README.md#PROJECTS)
-    > [MASTER’S THESIS](https://github.com/Sirinrada/Portfolio/blob/main/README.md###MASTER’S_THESIS)
-    
-    > [POWER BI](https://github.com/Sirinrada/Portfolio/blob/main/README.md#POWER_BI)
-- [TECHNICAL SKILLS](https://github.com/Sirinrada/Portfolio/blob/main/README.md#TECHNICAL-SKILLS)
-- [TRAINING and CERTIFICATIONS](https://github.com/Sirinrada/Portfolio/blob/main/README.md#TRAINING-and-CERTIFICATIONS)
-- [PROFESSIONAL EXPERIENCE](https://github.com/Sirinrada/Portfolio/blob/main/README.md#PROFESSIONAL-EXPERIENCE)
-- [CONTACT](https://github.com/Sirinrada/Portfolio/blob/main/README.md#CONTACTS)
-- - [Contact](#contact)
+- [EDUCATION](#education)
+- [PROJECTS](#projects)
+    - [MASTER’S THESIS](#masters-thesis)
+    - [POWER BI DASHBOARD](#power-bi-dashboard)
+- [TECHNICAL SKILLS](#technical-skills)
+- [TRAINING and CERTIFICATIONS](#training-and-certifications)
+- [PROFESSIONAL EXPERIENCE](#professional-experience)
+- [CONTACT](#contact)
 
 
 ## SUMMARY
@@ -57,7 +55,7 @@ Thammasat University Rangsit Campus
 
   [View full text](https://digital.library.tu.ac.th/tu_dc/frontend/Info/item/dc:305737)
 
-### Power BI Dashboard
+### POWER BI DASHBOARD
 #### Project Title: Proportion of Students in Science, Technology, and Engineering Compared to Other Fields (Academic Year 2022)
 Fields of study are classified based on the International Standard Classification of Education (ISCED) developed by UNESCO.
 
