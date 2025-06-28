@@ -90,3 +90,5 @@ Teacher, Computing Science Nov 2020 - Mar 2022
   
 ## CONTACTS
 [sirinrada.ek@gmail.com](mailto:sirinrada.ek@gmail.com)
+[linkedin.com](https://www.linkedin.com/in/sirinrada-ek-akkararungroj)
+
