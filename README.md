@@ -5,7 +5,7 @@ Welcome to my data and analytics portfolio. This repository showcases my academi
 
 ## Table of Contents
 
-- [SUMMARY](https://github.com/Sirinrada/Portfolio/blob/main/README.md#SUMMARY)
+- [SUMMARY](#summary)
 - [EDUCATION](https://github.com/Sirinrada/Portfolio/blob/main/README.md#EDUCATION)
 - [PROJECTS](https://github.com/Sirinrada/Portfolio/blob/main/README.md#PROJECTS)
     > [MASTER’S THESIS](https://github.com/Sirinrada/Portfolio/blob/main/README.md###MASTER’S_THESIS)
