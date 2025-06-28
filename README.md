@@ -7,10 +7,10 @@ Welcome to my data and analytics portfolio. This repository showcases my academi
 
 - [SUMMARY](#summary)
 - [EDUCATION](#education)
+- [TECHNICAL SKILLS](#technical-skills)
 - [PROJECTS](#projects)
     - [MASTER’S THESIS](#masters-thesis)
     - [POWER BI DASHBOARD](#power-bi-dashboard)
-- [TECHNICAL SKILLS](#technical-skills)
 - [TRAINING and CERTIFICATIONS](#training-and-certifications)
 - [PROFESSIONAL EXPERIENCE](#professional-experience)
 - [CONTACT](#contact)
@@ -42,6 +42,24 @@ Thammasat University Rangsit Campus
 
 - GPA: 3.63 (1st Class Honors)
 
+
+
+
+## TECHNICAL SKILLS
+
+- Computer Programming: Python (Pandas, NumPy, Scikit-learn),  SQL, R, C#, C++, Java, Front-end Development (HTML)
+- Machine Learning (ML): SVM, ANN, LSTM, Decision Trees, Naive Bayes
+- Visualization: Power BI, Tableau, Matplotlib, Seaborn
+- System Analysis & Design: Data Flow Diagrams, System Flowcharts
+- Database: Relational Database Design, ER Diagrams, MySQL, PostgreSQL
+- Business Process Modeling: Swimlane Diagrams (draw.io, Miro)
+- Software Testing: Test Case Design, UAT Planning, Bug Tracking (Jira)
+- Tools: Google Colab, Jupyter Notebook, SPSS, Power Automate, Microsoft Azure, Databricks, Miro
+- Soft Skills: Communication, Presentation, Problem-Solving, Cross-functional Collaboration, Multi-tasking
+- English (TOEIC 755) 
+  
+
+  
 ## PROJECTS
 
 ### MASTER’S THESIS
@@ -76,21 +94,6 @@ This analysis compares the proportion of students in the above disciplines to th
 ![Power BI Screenshot](https://github.com/Sirinrada/Portfolio/blob/main/powerbi_SCIENCE_Student_dashboard.png)
 
 
-
-## TECHNICAL SKILLS
-
-- Computer Programming: Python (Pandas, NumPy, Scikit-learn),  SQL, R, C#, C++, Java, Front-end Development (HTML)
-- Machine Learning (ML): SVM, ANN, LSTM, Decision Trees, Naive Bayes
-- Visualization: Power BI, Tableau, Matplotlib, Seaborn
-- System Analysis & Design: Data Flow Diagrams, System Flowcharts
-- Database: Relational Database Design, ER Diagrams, MySQL, PostgreSQL
-- Business Process Modeling: Swimlane Diagrams (draw.io, Miro)
-- Software Testing: Test Case Design, UAT Planning, Bug Tracking (Jira)
-- Tools: Google Colab, Jupyter Notebook, SPSS, Power Automate, Microsoft Azure, Databricks, Miro
-- Soft Skills: Communication, Presentation, Problem-Solving, Cross-functional Collaboration, Multi-tasking
-- English (TOEIC 755) 
-  
-  
 ## TRAINING and CERTIFICATIONS
 
 - A/B Testing and Conversion Optimization – Udemy (2025)  
