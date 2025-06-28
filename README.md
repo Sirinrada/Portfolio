@@ -10,13 +10,16 @@ With a strong ability to communicate across technical and non-technical stakehol
 
 ## Table of Contents
 
-- [Summary](https://github.com/Sirinrada/Portfolio/blob/main/README.md#SUMMARY)
-- [Education](https://github.com/Sirinrada/Portfolio/blob/main/README.md#EDUCATION)
-- [Projects](https://github.com/Sirinrada/Portfolio/blob/main/README.md#PROJECTS)
-- [Technical Skills](https://github.com/Sirinrada/Portfolio/blob/main/README.md#TECHNICAL-SKILLS)
-- [Training and Certifications](https://github.com/Sirinrada/Portfolio/blob/main/README.md#TRAINING-and-CERTIFICATIONS)
-- [Professional Experience](https://github.com/Sirinrada/Portfolio/blob/main/README.md#PROFESSIONAL-EXPERIENCE)
-- [Contacts](https://github.com/Sirinrada/Portfolio/blob/main/README.md#CONTACTS)
+- [SUMMARY](https://github.com/Sirinrada/Portfolio/blob/main/README.md#SUMMARY)
+- [EDUCATION](https://github.com/Sirinrada/Portfolio/blob/main/README.md#EDUCATION)
+- [PROJECTS](https://github.com/Sirinrada/Portfolio/blob/main/README.md#PROJECTS)
+    > [MASTER’S THESIS](https://github.com/Sirinrada/Portfolio/blob/main/README.md###MASTER’S_THESIS)
+    
+    > [POWER BI](https://github.com/Sirinrada/Portfolio/blob/main/README.md###POWER_BI)
+- [TECHNICAL SKILLS](https://github.com/Sirinrada/Portfolio/blob/main/README.md#TECHNICAL-SKILLS)
+- [TRAINING and CERTIFICATIONS](https://github.com/Sirinrada/Portfolio/blob/main/README.md#TRAINING-and-CERTIFICATIONS)
+- [PROFESSIONAL EXPERIENCE](https://github.com/Sirinrada/Portfolio/blob/main/README.md#PROFESSIONAL-EXPERIENCE)
+- [CONTACT](https://github.com/Sirinrada/Portfolio/blob/main/README.md#CONTACTS)
 
 ## EDUCATION
 
@@ -37,6 +40,7 @@ Thammasat University Rangsit Campus
 
 ## PROJECTS
 
+### MASTER’S THESIS
 #### THE BIG FIVE PERSONALITY CLASSIFICATION BASED ON LANGUAGE USE Aug 2020 - Jul 2023
 
 - Developed an NLP-based model to predict individuals' Big Five personality traits from their language patterns.
@@ -46,7 +50,25 @@ Thammasat University Rangsit Campus
   psycholinguistic profiling.
 
   [View full text](https://digital.library.tu.ac.th/tu_dc/frontend/Info/item/dc:305737)
-  
+
+### POWER BI
+#### Project Title: Proportion of Students in Science, Technology, and Engineering Compared to Other Fields (Academic Year 2022)
+Fields of study are classified based on the International Standard Classification of Education (ISCED) developed by UNESCO.
+
+#### Description: 
+The following disciplines are included under Science, Technology, and Engineering:
+Natural Sciences, Mathematics and Statistics
+
+- Information and Communication Technologies (ICTs)
+
+- Engineering, Manufacturing and Construction
+
+- Agriculture, Forestry, Fisheries and Veterinary
+
+- Health
+
+This analysis compares the proportion of students in the above disciplines to those in other fields of study in the academic year 2022 (B.E. 2565).
+
 ## TECHNICAL SKILLS
 
 - Computer Programming: Python (Pandas, NumPy, Scikit-learn),  SQL, R, C#, C++, Java, Front-end Development (HTML)
@@ -90,5 +112,6 @@ Teacher, Computing Science Nov 2020 - Mar 2022
   
 ## CONTACTS
 [sirinrada.ek@gmail.com](mailto:sirinrada.ek@gmail.com)
+
 [linkedin.com](https://www.linkedin.com/in/sirinrada-ek-akkararungroj)
 
